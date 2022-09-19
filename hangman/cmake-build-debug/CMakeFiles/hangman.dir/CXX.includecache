@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/geren/CLionProjects/hangman/word.cpp
+iostream
+-
+word.h
+C:/Users/geren/CLionProjects/hangman/word.h
+
+C:/Users/geren/CLionProjects/hangman/word.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+map
+-
+
